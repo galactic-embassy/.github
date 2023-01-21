@@ -1,7 +1,7 @@
 <p align="center">
-    <img src="https://github.com/galactic-embassy/.assets/blob/8c416cb1074be0f0d8ea6198469ad63b01f99b48/banner/galactic_embassy-cover.png" width="100%" height="100%" alt="Galactic Embassy Banner">
+    <img src="https://galactic-embassy.github.io/.assets/image/banner/galactic_embassy-cover.png" width="100%" height="100%" alt="Galactic Embassy">
 </p>
-<h1 align='center' style='border-bottom: none;'>Galactic Embassy</h1>
+<!-- <h1 align='center' style='border-bottom: none;'>Galactic Embassy</h1> -->
 <h3 align='center'>Earth's Envoy to the Galaxy</h3>
 <br>
 
