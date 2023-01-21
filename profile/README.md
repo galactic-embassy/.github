@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://github.com/galactic-embassy/.assets/blob/086008d75557f9ce29e2a46dfdbcc3912b6443ce/logo/galactic_embassy_logo_light.png" width="20%" height="20%" alt="Galactic Embassy Logo">
+    <img src="https://github.com/galactic-embassy/.assets/blob/8c416cb1074be0f0d8ea6198469ad63b01f99b48/banner/galactic_embassy-cover.png" width="100%" height="100%" alt="Galactic Embassy Banner">
 </p>
 <h1 align='center' style='border-bottom: none;'>Galactic Embassy</h1>
 <h3 align='center'>Earth's Envoy to the Galaxy</h3>
 <br>
+
 
 
 **The [Galactic Embassy](https://www.galacticembassy.com/) is Earth's envoy to the galaxy. We are on a mission to set the conditions for humanity as a Multi-Planetary Species.** The [Galactic Embassy](https://www.galacticembassy.com/) is a hypothetical concept for an organization that serves as a central point of contact and communication between different intelligent species in the galaxy.
