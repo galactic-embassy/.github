@@ -10,9 +10,9 @@
 
 The Galactic Embassy is a hypothetical concept for an organization that serves as a central point of contact and communication between different intelligent species in the galaxy.
 
-Eventually, the Galactic Embassy will be staffed by representatives of various extraterrestrial civilizations and be responsible for facilitating communication and cooperation between different worlds. This could include diplomatic negotiations, trade agreements, and the exchange of scientific and technological knowledge.
+Eventually, the Galactic Embassy will be staffed by representatives of various extraterrestrial civilizations and be responsible for facilitating communication and cooperation between different worlds. This includes diplomatic negotiations, trade agreements, and the exchange of scientific and technological knowledge between various organic and artificial forms of life.
 
-For now, we are on a mission to set the conditions for humanity to become a multi-planetary species – both enabling her to set sights on new worlds as suataing our life on Earth. Within the context of the future vacuum of space, we, assisted with cutting edge human-derived AI, develop the imaginations to further our life on Earth.
+For now, we are on a mission to set the conditions for humanity to become a multi-planetary species – sustaining her life on Earth to enable sights on new worlds. Within the context of the vacuum of space, and assisted with cutting-edge human-derived artificial intelligence, we develop the imaginations to further our life on Earth and beyond.
 
 _The Galactic Embassy is an initiative by [Scape Agency](https://www.scape.agency/)._
 
